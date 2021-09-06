@@ -1,0 +1,11 @@
+{
+    "tom": {
+        "version": "0.1.0",
+        "repo": "https://github.com/eeli1/tom"
+    },
+    "project": {
+        "name": "cardioid-times-table",
+        "authors": "elias <maierelias13@gmail.com>",
+        "type": "wasm"
+    }
+}
